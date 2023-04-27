@@ -8,7 +8,7 @@ function TextInfo() {
         <Box className="elipse1"></Box>
 
         <Typography variant="h4" mt={15} ml={6} sx={{ fontWeight: "bold" }}>
-          !HOLA! Un gusto, Soy:
+          !HOLA! Un gusto:
         </Typography>
         <br />
         <br/>
