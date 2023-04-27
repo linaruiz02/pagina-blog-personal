@@ -1,0 +1,118 @@
+html, body{
+    /* max-width: 100%; */
+    overflow-x:hidden;
+    margin: 0;
+}
+
+.imgRedonda{
+    margin-left: 130px;
+    display: block;
+    width:500px; 
+    height: 500px;
+    border-radius:250px;
+    position: absolute;
+    z-index: 1;
+    object-fit: cover;
+
+}
+
+.elipse1{
+    z-index: 0;
+    position: absolute;
+    background-color: #f4dfcd27;
+    height: 600px;
+    width: 600px;
+    left: -80px;
+    border-radius: 300px;
+    margin-top: -120px;
+    box-shadow: 2;
+}
+
+
+
+.elipse2{
+    z-index: 0;
+    position: absolute;
+    background-color: #ffd5f86c;
+    height: 500px;
+    width: 500px;
+    border-radius: 250px;
+    top: 300px;
+    right:0;
+    transform: translate(20%);
+    box-shadow: 2;
+}
+
+.elipse3{
+    z-index: 0;
+    position: absolute;
+    background-color: #ffffff8f;
+    height: 350px;
+    width: 350px;
+    border-radius: 175px;
+    top: 365px;
+    right: 0;
+    transform: translate(20%);
+    box-shadow: 2;
+}
+.elipse4{
+    z-index: 0;
+    position: absolute;
+    height: 850px;
+    width: 850px;
+    border-radius: 425px;
+    background-color: #f4dfcd44;
+    margin-top: 360px;
+    z-index: 0;
+    
+}
+
+.cardImage{
+    position: relative;
+    z-index: 1;
+    margin-top: 450px;
+    width: 600px;
+    height: 400px;
+    margin-left: 680px;
+    background-color: white;
+    border-radius: 20px !important;
+    box-shadow: 0 5px 30px  rgba(0, 0, 0, 0.13) !important; 
+}
+
+
+.cardSkills{
+    position: relative;
+    z-index: 2;
+    margin-top: -300px;
+    width: 700px;
+    height: 550px;
+    margin-left: 65px;
+    background-color:white;
+    border-radius: 20px !important;
+    box-shadow: 0 5px 30px  rgba(0, 0, 0, 0.13) !important; 
+}
+
+.imgCard{
+    width: 500px;
+    height: 400px;
+    margin-left: 60px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.iconCss{
+    padding: 0;
+    margin-left: 50px;
+    height: 35px;
+    width: 35px;
+}
+
+.imgReact{
+   margin-top: -150px;
+   margin-left: 470px;
+   height: 200px;
+}
+
+
+
